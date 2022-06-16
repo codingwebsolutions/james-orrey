@@ -1,4 +1,4 @@
-<h2>Hello There,</h2>
+<h2>Hello There</h2>
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
