@@ -22,4 +22,4 @@ I'm James, a Full-Stack Software Engineer and am looking to contribute to the wi
 <hr>
 <h2>📊 Github Stats</h2>
 
-[![James's github stats](https://github-readme-stats.vercel.app/api?username=jamescodes-js&count_private=true&include_all_commits=true&theme=monokai)](https://google.com)
+[![James's github stats](https://github-readme-stats.vercel.app/api?username=jamescodestech&count_private=true&include_all_commits=true&theme=monokai)](https://google.com)
