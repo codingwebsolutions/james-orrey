@@ -7,12 +7,10 @@
 I'm James, a Full-Stack Software Engineer and am looking to contribute to the wider coding community
 
 - 🔭 I’m currently working on my Personal Projects.
-- 🌱 I’m currently learning ConcourseCI and API Templates.
+- 🌱 I’m currently learning Nextjs and building on my React Skills.
 - 👯 I’m looking to collaborate and contribute to the wider coding community.
 <!-- - 🤔 I’m looking for help with Javascript. -->
 - 💬 Ask me about Front end technologies, Frameworks and Backend API's.
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
